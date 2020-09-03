@@ -19,10 +19,10 @@
 ## Using
 
 	Embed   :
-		$ ./AL-Image-Embedder --on   [FIRST MADIA] [SECOND MEDIA] [OUTPUT]
+		$ ./AL-Embedder --on   [FIRST MADIA] [SECOND MEDIA] [OUTPUT]
 
 	Extract :
-		 $ ./AL-Image-Embedder --off [FIRST MADIA]
+		 $ ./AL-Embedder --off [FIRST MADIA]
 
 ## Option
 	--on  : Embed two media          - code
